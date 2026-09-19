@@ -52,31 +52,31 @@ I have several plots from different phases of the training process.
 
 ### 6.1 ResNet-50 with basic transforms
 
-![Training and validation loss and accuracy for ResNet-50 with only basic transforms](assets/figure-1.png)
+![Training and validation loss and accuracy for ResNet-50 with only basic transforms](assets/b0.png)
 
 *Figure 1: ResNet-50 with only basic transforms.*
 
 ### 6.2 ResNet-50 with layer 4 unfrozen
 
-![Training and validation loss and accuracy for ResNet-50 with layer 4 unfrozen](assets/figure-2.png)
+![Training and validation loss and accuracy for ResNet-50 with layer 4 unfrozen](assets/b1.png)
 
 *Figure 2: ResNet-50 with layer 4 unfrozen.*
 
 ### 6.3 ResNet-50 with added augmentation
 
-![Training and validation loss and accuracy for ResNet-50 with added augmentation, layers 3 and 4 unfrozen, and a learning-rate scheduler](assets/figure-3.png)
+![Training and validation loss and accuracy for ResNet-50 with added augmentation, layers 3 and 4 unfrozen, and a learning-rate scheduler](assets/b2.png)
 
 *Figure 3: ResNet-50 with added augmentation, layers 3 and 4 unfrozen, and learning-rate scheduler.*
 
 ### 6.4 ConvNeXt-Tiny
 
-![Training and validation loss and accuracy for ConvNeXt-Tiny with added augmentation, layer 4 unfrozen, and a learning-rate scheduler](assets/figure-4.png)
+![Training and validation loss and accuracy for ConvNeXt-Tiny with added augmentation, layer 4 unfrozen, and a learning-rate scheduler](assets/b3.png)
 
 *Figure 4: ConvNeXt-Tiny with added augmentation, layer 4 unfrozen, and learning-rate scheduler.*
 
 ### 6.5 Final Kaggle test accuracy
 
-![Final Kaggle test-set accuracy](assets/figure-5.png)
+![Final Kaggle test-set accuracy](assets/kaggleacc.png)
 
 *Figure 5: Final Kaggle Set Accuracy.*
 
